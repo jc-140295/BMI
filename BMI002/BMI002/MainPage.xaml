@@ -15,6 +15,9 @@
                 HorizontalOptions="Center" />
             <Button Text="BMIを計算します"
                 HorizontalOptions="Center" />
+            <Entry Text="19.5"
+                HorizontalOptions="Center" />
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
